@@ -1,0 +1,41 @@
+item_id,name,category,price_lkr,ingredients,dietary,spice_level,description
+S01,Tomato Soup,Starter,650,"tomato,cream,basil",vegetarian,none,Classic creamy tomato soup.
+S02,Chicken Soup,Starter,750,"chicken,onion,carrot,celery",halal,none,Warm chicken broth with vegetables.
+S03,Spring Rolls,Starter,800,"cabbage,carrot,glass noodles",vegan,mild,Crispy vegetable spring rolls.
+S04,Fish Cutlets,Starter,950,"tuna,potato,spices,breadcrumbs",halal,medium,Sri Lankan style fish cutlets.
+S05,Bruschetta,Starter,700,"bread,tomato,garlic,basil",vegetarian,none,Grilled bread with tomato topping.
+S06,French Fries,Starter,600,"potato,salt,oil",vegan,none,Golden fried potato fries.
+S07,Garlic Bread,Starter,650,"bread,butter,garlic",vegetarian,none,Toasted garlic bread slices.
+S08,Onion Rings,Starter,700,"onion,flour,breadcrumbs",vegetarian,none,Crispy fried onion rings.
+S09,Veg Samosa,Starter,500,"potato,peas,spices,flour",vegan,mild,Triangular fried pastry with filling.
+S10,Chicken Wings,Starter,1200,"chicken,spices,oil",halal,hot,Spicy deep-fried chicken wings.
+M01,Chicken Kottu,Main,1650,"roti,chicken,egg,leeks",halal,medium,Stir-fried roti with chicken and egg.
+M02,Veg Fried Rice,Main,1400,"rice,carrot,leeks,peas",vegetarian,none,Fragrant fried rice with mixed veggies.
+M03,Seafood Fried Rice,Main,1800,"rice,prawns,cuttlefish,egg",halal,none,Fried rice with mixed seafood.
+M04,Paneer Butter Masala,Main,1600,"paneer,butter,tomato,cream",vegetarian,mild,Paneer cubes in creamy tomato gravy.
+M05,Beef Curry with Rice,Main,1900,"beef,onion,spices,rice",halal,hot,Spicy beef curry served with rice.
+M06,Egg Noodles,Main,1350,"noodles,egg,soy sauce,veggies",vegetarian,mild,Stir-fried noodles with egg and vegetables.
+M07,Mutton Biryani,Main,2100,"mutton,rice,spices,yogurt",halal,medium,Aromatic biryani with tender mutton.
+M08,Grilled Chicken Steak,Main,2000,"chicken,pepper,butter",halal,mild,Grilled chicken served with pepper sauce.
+M09,Veg Pizza,Main,1600,"flour,cheese,tomato,olives",vegetarian,none,Wood-fired vegetarian pizza.
+M10,Pepperoni Pizza,Main,1900,"flour,cheese,pepperoni,tomato",none,none,Classic pepperoni pizza.
+M11,Chicken Burger,Main,1500,"chicken,lettuce,cheese,bun",halal,none,Grilled chicken burger with cheese.
+M12,Veg Burger,Main,1300,"veg patty,lettuce,tomato,bun",vegetarian,none,Vegetarian burger with fresh veggies.
+D01,Watalappan,Dessert,900,"coconut milk,jaggery,egg,nuts",halal,none,Sri Lankan custard pudding.
+D02,Chocolate Cake,Dessert,950,"flour,cocoa,butter,egg",vegetarian,none,Rich and moist chocolate cake.
+D03,Fruit Salad,Dessert,700,"mango,papaya,banana,apple",vegan,none,Fresh seasonal fruit salad.
+D04,Ice Cream Sundae,Dessert,800,"ice cream,chocolate syrup,nuts",vegetarian,none,Vanilla ice cream with toppings.
+D05,Cheesecake,Dessert,1000,"cream cheese,egg,sugar",vegetarian,none,Classic baked cheesecake.
+D06,Brownie,Dessert,850,"chocolate,butter,flour,egg",vegetarian,none,Fudgy chocolate brownie.
+D07,Carrot Cake,Dessert,950,"carrot,flour,egg,cream cheese",vegetarian,none,Moist carrot cake with cream cheese frosting.
+D08,Pineapple Pastry,Dessert,750,"flour,butter,pineapple,cream",vegetarian,none,Pastry with pineapple cream.
+D09,Kulfi,Dessert,650,"milk,sugar,cardamom,nuts",vegetarian,none,Traditional Indian frozen dessert.
+B01,Lime Juice,Beverage,500,"lime,sugar,water",vegan,none,Fresh lime juice.
+B02,Mango Juice,Beverage,600,"mango,sugar,water",vegan,none,Refreshing mango juice.
+B03,Iced Coffee,Beverage,700,"coffee,milk,sugar,ice",vegetarian,none,Chilled coffee with milk.
+B04,Milkshake,Beverage,850,"milk,ice cream,flavoring",vegetarian,none,Creamy milkshake of choice.
+B05,Black Tea,Beverage,300,"tea leaves,water",vegan,none,Hot Ceylon black tea.
+B06,Green Tea,Beverage,400,"green tea leaves,water",vegan,none,Light and refreshing green tea.
+B07,Faluda,Beverage,950,"milk,rose syrup,vermicelli,ice cream",vegetarian,none,Popular sweet milk-based drink.
+B08,Hot Chocolate,Beverage,750,"milk,cocoa,sugar",vegetarian,none,Hot chocolate with frothy milk.
+B09,Smoothie,Beverage,850,"banana,milk,honey",vegetarian,none,Banana-based smoothie.
